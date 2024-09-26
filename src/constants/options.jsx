@@ -23,7 +23,7 @@ export const SelectTravelersList = [
     {
         id:4,
         title:'Group',
-        desc:'A group of friends',
+        desc:'A group of 5 or more',
         icon:'🤜🤛',
         people:'5 to 10 people'
     }

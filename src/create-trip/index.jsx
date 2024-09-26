@@ -23,7 +23,7 @@ function CreateTrip() {
   },[formData])
 
   const OnGenerateTrip=()=>{
-    if(formData?.Days>5)
+    if(formData?.Days>10)
       {
         return;
       }
