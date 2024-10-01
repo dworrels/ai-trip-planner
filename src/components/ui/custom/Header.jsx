@@ -55,6 +55,9 @@ function Header() {
     <div className="p-3 shadow-sm flex justify-between items-center px-5">
       <img src="logo.svg" />
       <div>{user ? <div className="flex items-center gap-3">
+        <a href="/create-trip">
+        <Button varient='outline' className="rounded-full">Create Trip</Button>
+        </a>
         <a href="/my-trips">
         <Button varient='outline' className="rounded-full">My Trips</Button>
         </a>
