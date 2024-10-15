@@ -10,7 +10,7 @@ Welcome to the AI Trip Planner! This web application helps users plan their trip
 - Save and view previously planned trips.
 - Responsive, mobile-friendly design.
 
-Usage
+## Usage
 1. Sign up or log in to the AI Trip Planner.
 2. Enter trip details such as:
    - Number of travelers
